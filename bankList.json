@@ -1,0 +1,178 @@
+[
+  {
+    "BankName": "Halkbank",
+    "BankAddress": "Atatürk Bulvarı No:21 Opera 06053 Ulus/Altındağ Ankara",
+    "BankCode": "10000"
+  },
+  {
+    "BankName": "VakıfBank",
+    "BankAddress": "Söğütözü Mahallesi 2174. Sokak No:9 06550 Çankaya/Ankara",
+    "BankCode": "10012"
+  },
+  {
+    "BankName": "Ziraat Bankası",
+    "BankAddress": "Atatürk Bulvarı No:8 06050 Altındağ/Ankara",
+    "BankCode": "10013"
+  },
+  {
+    "BankName": "Akbank",
+    "BankAddress": "Yıldız Mahallesi 34394 Beşiktaş/İstanbul",
+    "BankCode": "10020"
+  },
+  {
+    "BankName": "Anadolubank",
+    "BankAddress": "Cumhuriyet Mahallesi 2495. Sokak No:1 34770 Ümraniye/İstanbul",
+    "BankCode": "10021"
+  },
+  {
+    "BankName": "Fibabanka",
+    "BankAddress": "Kocatepe Mahallesi 240. Sokak No:11 34045 Beyoğlu/İstanbul",
+    "BankCode": "10022"
+  },
+  {
+    "BankName": "Şekerbank",
+    "BankAddress": "İnönü Mahallesi 117. Sokak No:1 34093 Beyoğlu/İstanbul",
+    "BankCode": "10023"
+  },
+  {
+    "BankName": "Turkish Bank",
+    "BankAddress": "Büyükdere Mahallesi 199. Sokak No:2 34394 Beşiktaş/İstanbul",
+    "BankCode": "10024"
+  },
+  {
+    "BankName": "Türk Ticaret Bankası",
+    "BankAddress": "İstiklal Caddesi No:10 06100 Ulus/Ankara",
+    "BankCode": "10025"
+  },
+  {
+    "BankName": "Vakıf Katılım Bankası",
+    "BankAddress": "Saray Mahallesi Dr. Adnan Büyükdeniz Caddesi No:10 34768 Ümraniye / İstanbul",
+    "BankCode": "210"
+  },
+  {
+    "BankName": "Türkiye İş Bankası",
+    "BankAddress": "İstiklal Caddesi No:161 34433 Beyoğlu/İstanbul",
+    "BankCode": "10026"
+  },
+  {
+    "BankName": "Yapı Kredi",
+    "BankAddress": "Nişantaşı Mahallesi 19 Mayıs Caddesi No:23 34342 Şişli/İstanbul",
+    "BankCode": "10027"
+  },
+  {
+    "BankName": "Alternatif Bank",
+    "BankAddress": "Yıldız Mahallesi 34394 Beşiktaş/İstanbul",
+    "BankCode": "10028"
+  },
+  {
+    "BankName": "Arap Türk Bankası",
+    "BankAddress": "Küçükçekmece Mahallesi 2. Cadde No:53 34290 Küçükçekmece/İstanbul",
+    "BankCode": "10029"
+  },
+  {
+    "BankName": "Bank of China Turkey",
+    "BankAddress": "İstiklal Caddesi No:116 34433 Beyoğlu/İstanbul",
+    "BankCode": "10030"
+  },
+  {
+    "BankName": "Burgan Bank",
+    "BankAddress": "Büyükdere Mahallesi 199. Sokak No:1 34394 Beşiktaş/İstanbul",
+    "BankCode": "10031"
+  },
+  {
+    "BankName": "Citibank",
+    "BankAddress": "İstiklal Caddesi No:136 34433 Beyoğlu/İstanbul",
+    "BankCode": "10032"
+  },
+  {
+    "BankName": "DenizBank",
+    "BankAddress": "Büyükdere Mahallesi 199. Sokak No:2 34394 Beşiktaş/İstanbul",
+    "BankCode": "10033"
+  },
+  {
+    "BankName": "Deutsche Bank",
+    "BankAddress": "İstiklal Caddesi No:146 34433 Beyoğlu/İstanbul",
+    "BankCode": "10034"
+  },
+  {
+    "BankName": "Garanti BBVA",
+    "BankAddress": "Nişantaşı Mahallesi 19 Mayıs Caddesi No:25 34342 Şişli/İstanbul",
+    "BankCode": "10035"
+  },
+  {
+    "BankName": "HSBC",
+    "BankAddress": "İstiklal Caddesi No:126 34433 Beyoğlu/İstanbul",
+    "BankCode": "10036"
+  },
+  {
+    "BankName": "ICBC Turkey Bank",
+    "BankAddress": "Yıldız Mahallesi 34394 Beşiktaş/İstanbul",
+    "BankCode": "10037"
+  },
+  {
+    "BankName": "ING",
+    "BankAddress": "İstiklal Caddesi No:156 34433 Beyoğlu/İstanbul",
+    "BankCode": "10038"
+  },
+  {
+    "BankName": "MUFG Bank Turkey A.Ş.",
+    "BankAddress": "İstiklal Caddesi No:176 34433 Beyoğlu/İstanbul",
+    "BankCode": "10039"
+  },
+  {
+    "BankName": "Odeabank",
+    "BankAddress": "Büyükdere Mahallesi 199. Sokak No:3 34394 Beşiktaş/İstanbul",
+    "BankCode": "10040"
+  },
+  {
+    "BankName": "QNB Finansbank",
+    "BankAddress": "Yıldız Mahallesi 34394 Beşiktaş/İstanbul",
+    "BankCode": "10041"
+  },
+  {
+    "BankName": "Rabobank",
+    "BankAddress": "Büyükdere Mahallesi 199. Sokak No:4 34394 Beşiktaş/İstanbul",
+    "BankCode": "10042"
+  },
+  {
+    "BankName": "Turkland Bank A.Ş.",
+    "BankAddress": "Büyükdere Mahallesi 199. Sokak No:5 34394 Beşiktaş/İstanbul",
+    "BankCode": "10043"
+  },
+  {
+    "BankName": "TEB",
+    "BankAddress": "İstiklal Caddesi No:186 34433 Beyoğlu/İstanbul",
+    "BankCode": "10044"
+  },
+  {
+    "BankName": "Bank Mellat",
+    "BankAddress": "Yıldız Mahallesi 34394 Beşiktaş/İstanbul",
+    "BankCode": "10045"
+  },
+  {
+    "BankName": "Habib Bank",
+    "BankAddress": "Büyükdere Mahallesi 199. Sokak No:6 34394 Beşiktaş/İstanbul",
+    "BankCode": "10046"
+  },
+  {
+    "BankName": "Intesa Sanpaolo",
+    "BankAddress": "İstiklal Caddesi No:196 34433 Beyoğlu/İstanbul",
+    "BankCode": "10047"
+  },
+  {
+    "BankName": "JPMorgan Chase Bank",
+    "BankAddress": "Yıldız Mahallesi 34394 Beşiktaş/İstanbul",
+    "BankCode": "10048"
+  },
+  {
+    "BankName": "Société Générale",
+    "BankAddress": "Büyükdere Mahallesi 199. Sokak No:7 34394 Beşiktaş/İstanbul",
+    "BankCode": "10049"
+  },
+  {
+    "BankName": "Birleşik Fon Bankası",
+    "BankAddress": "Yıldız Mahallesi 34394 Beşiktaş/İstanbul",
+    "BankCode": "10050"
+  }
+]
+

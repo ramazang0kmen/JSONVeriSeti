@@ -1,0 +1,32 @@
+[
+    {
+        "CurrencyCode": "TL",
+        "LastTransactionDate": "2021-02-03T16:12:30",
+        "AccountStatus": "A",
+        "IBAN": "TR000000000158000000000001",
+        "RemainingBalance": "",
+        "Balance": "800503.35",
+        "AccountType": "2",
+        "AccountNumber": "00158000000000001"
+    },
+    {
+        "CurrencyCode": "TL",
+        "LastTransactionDate": "2021-01-29T12:14:23",
+        "AccountStatus": "A",
+        "IBAN": "TR000000000158000000000002",
+        "RemainingBalance": "98990.46",
+        "Balance": "98990.46",
+        "AccountType": "2",
+        "AccountNumber": "00158000000000002"
+    },
+    {
+        "CurrencyCode": "TL",
+        "LastTransactionDate": "2021-01-27T17:12:49",
+        "AccountStatus": "A",
+        "IBAN": "TR000000000158000000000003",
+        "RemainingBalance": "-772.8",
+        "Balance": "349.2",
+        "AccountType": "2",
+        "AccountNumber": "00158000000000003"
+    }
+]

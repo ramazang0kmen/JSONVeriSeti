@@ -1,0 +1,68 @@
+[
+  {
+    "CurrencyCode": "TL",
+    "TransactionType": "1",
+    "Description": "Borçlu:...",
+    "Amount": "650.0",
+    "TransactionCode": "SNTSTHSLAT",
+    "Balance": "4957.61",
+    "TransactionName": "Senet tahsilatı",
+    "TransactionDate": "2020-02-05T10:47:47",
+    "TransactionId": "2020000000000001"
+},
+{
+    "CurrencyCode": "TL",
+    "TransactionType": "1",
+    "Description": "MASRAF VE KOMİSYON TUTARI...",
+    "Amount": "7.0",
+    "TransactionCode": "FYTSMSRFIPT",
+    "Balance": "4964.61",
+    "TransactionName": "Masraf Tahsilat İptali",
+    "TransactionDate": "2020-02-05T10:50:04",
+    "TransactionId": "2020000000000002"
+},
+{
+    "CurrencyCode": "TL",
+    "TransactionType": "2",
+    "Description": "EFT ...",
+    "Amount": "-200.0",
+    "TransactionCode": "EFTTHSBEFT",
+    "Balance": "4764.61",
+    "TransactionName": "Hesaba giden EFT",
+    "TransactionDate": "2020-02-07T16:20:25",
+    "TransactionId": "2020000000000003"
+},
+{
+  "CurrencyCode": "TL",
+  "TransactionType": "1",
+  "Description": "Müşteri A'dan alınan ödeme",
+  "Amount": "1500.0",
+  "TransactionCode": "INC123",
+  "Balance": "1500.0",
+  "TransactionName": "Fatura Ödeme",
+  "TransactionDate": "2022-01-15T14:30:00",
+  "TransactionId": "202200000000001"
+},
+{
+  "CurrencyCode": "USD",
+  "TransactionType": "1",
+  "Description": "Ofis Malzemeleri Alımı",
+  "Amount": "-200.0",
+  "TransactionCode": "EXP456",
+  "Balance": "1300.0",
+  "TransactionName": "Ofis Giderleri",
+  "TransactionDate": "2022-01-16T10:15:00",
+  "TransactionId": "202200000000002"
+},
+{
+  "CurrencyCode": "EUR",
+  "TransactionType": "2",
+  "Description": "Tasarruf Hesabına Transfer",
+  "Amount": "-500.0",
+  "TransactionCode": "TRF789",
+  "Balance": "800.0",
+  "TransactionName": "Tasarruf Transferi",
+  "TransactionDate": "2022-01-18T08:45:00",
+  "TransactionId": "202200000000003"
+}
+  ]

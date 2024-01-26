@@ -1,0 +1,15 @@
+[
+    {
+        "CurrencyCode": "TL",
+        "LastTransactionDate": "2021-01-29T12:14:23",
+        "AccountStatus": "A",
+        "OpeningDate": "2020-12-29T16:20:43",
+        "IBAN": "TR000000000158000000000001",
+        "CustomerNumber": "445805642686",
+        "RemainingBalance": "98990.46",
+        "Balance": "98990.46",
+        "AccountType": "2",
+        "BranchCode": "S01007",
+        "AccountNumber": "00158000000000001"
+    }
+]
