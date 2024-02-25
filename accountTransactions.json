@@ -52,5 +52,14 @@
     "TransactionDate": "2020-04-25",
     "TransactionClock": "16:10:45",
     "TransactionId": "2020000000000006"
+  },
+  {
+    "TransferDirection": "FATMA YILDIZ",
+    "TransactionType": "2",
+    "Description": "Giden para",
+    "Amount": "-750.0",
+    "TransactionDate": "2020-04-25",
+    "TransactionClock": "16:10:45",
+    "TransactionId": "2020000000000006"
   }
   ]
