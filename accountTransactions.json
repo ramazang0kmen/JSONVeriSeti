@@ -4,7 +4,8 @@
     "TransactionType": "1",
     "Description": "Gelen para",
     "Amount": "650.0",
-    "TransactionDate": "2020-02-05T10:47:47",
+    "TransactionDate": "2020-02-05",
+    "TransactionClock": "10:47:47",
     "TransactionId": "2020000000000001"
   },
   {
@@ -12,7 +13,8 @@
     "TransactionType": "2",
     "Description": "Giden para",
     "Amount": "-300.0",
-    "TransactionDate": "2020-02-10T14:30:22",
+    "TransactionDate": "2020-02-10",
+    "TransactionClock": "14:30:22",
     "TransactionId": "2020000000000002"
   },
   {
@@ -20,7 +22,8 @@
     "TransactionType": "1",
     "Description": "Gelen para",
     "Amount": "1200.0",
-    "TransactionDate": "2020-03-03T08:15:10",
+    "TransactionDate": "2020-03-03",
+    "TransactionClock": "08:15:10",
     "TransactionId": "2020000000000003"
   },
   {
@@ -28,7 +31,8 @@
     "TransactionType": "2",
     "Description": "Giden para",
     "Amount": "-500.0",
-    "TransactionDate": "2020-03-20T19:45:56",
+    "TransactionDate": "2020-03-206",
+    "TransactionClock": "19:45:5",
     "TransactionId": "2020000000000004"
   },
   {
@@ -36,7 +40,8 @@
     "TransactionType": "1",
     "Description": "Gelen para",
     "Amount": "800.0",
-    "TransactionDate": "2020-04-12T11:22:30",
+    "TransactionDate": "2020-04-12",
+    "TransactionClock": "11:22:30",
     "TransactionId": "2020000000000005"
   },
   {
@@ -44,7 +49,8 @@
     "TransactionType": "2",
     "Description": "Giden para",
     "Amount": "-750.0",
-    "TransactionDate": "2020-04-25T16:10:45",
+    "TransactionDate": "2020-04-25",
+    "TransactionClock": "16:10:45",
     "TransactionId": "2020000000000006"
   }
-  ]
+]
